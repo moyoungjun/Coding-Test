@@ -12,5 +12,6 @@ fun main(){
         println("${d::class.simpleName}")
         println("git add practice")
         println("aaa")
+        println("test")
 
 }

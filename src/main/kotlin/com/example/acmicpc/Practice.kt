@@ -10,5 +10,7 @@ fun main(){
         println("${s::class.simpleName}")
         val d = br.readLine().toInt()
         println("${d::class.simpleName}")
+        println("git add practice")
+        println("aaa")
 
 }

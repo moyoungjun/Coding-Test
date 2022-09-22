@@ -6,7 +6,7 @@ fun main(){
     val sc = Scanner(System.`in`)
     var n = sc.next()
     for(i in n){
-    println(i.toInt())
+    println(i.code)
     }
 
 }
